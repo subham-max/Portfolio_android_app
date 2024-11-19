@@ -1,8 +1,14 @@
+
+
+
+
 # my_first_flutter_app
 
 A new Flutter project.
 
 ## Getting Started
+
+This Application is having a portfolio of me.
 
 This project is a starting point for a Flutter application.
 
